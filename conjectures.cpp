@@ -1,7 +1,8 @@
-#include <iostream>
-using namespace std;
 #include <ctime>
 #include <cmath>
+#include <iostream>
+
+using namespace std;
 
 //QUESTION NO 1
 //PART a)
