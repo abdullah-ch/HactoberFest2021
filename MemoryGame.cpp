@@ -1,3 +1,6 @@
+// This program will test your memory. Will you be able to guess which tiles have matching cards?
+
+#include <math.h>
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
